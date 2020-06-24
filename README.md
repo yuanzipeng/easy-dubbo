@@ -1,2 +1,2 @@
 # easy-dubbo
-在我看来框架分为业务性框架和非业务性框架，本项目的愿景是希望能优化出一个简单的傻瓜式dubbo业务性框架，让每个人都容易上手。
+在我看来框架分为业务性框架和非业务性框架，本项目的愿景是希望能优化出一个简单的傻瓜式dubbo业务性框架，让每个人都容易上手。用了Spring Cloud后觉得dubbo不香了，dubbo的网关、配置中心等方面比Spring Cloud差远了，dubbo除了用的是RPC协议，其他都不如Spring Cloud，所以本来就搭好的框架demo也懒得上传了，推荐https://github.com/yuanzipeng/springcloud-demo
